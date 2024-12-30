@@ -25,17 +25,18 @@ This page is an overview of the various private servers currently available. Eac
 | [AtavismXI](https://www.atavismxi.com/) | [Join](https://discord.gg/Hpe657nmGu) | CoP | Custom (1x to 1.5x) | Retail | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/atavismxi.md) |
 | [Cactuar](https://www.cactuarxi.com) | [Join](https://www.discord.gg/DP59SmXN7v) | Wings | Custom (2x) | +12% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/cactuar.md) |
 | [CatsEyeXI](https://catseyexi.com/) | [Join](https://discord.gg/catseyexi) | Wings | Custom | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/catseyexi.md) |
-| [Demiurge](http://www.demiurge.pw) | [Join](https://discord.gg/SSU3HMq) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
+| [Demiurge](http://www.demiurge.pw) | [Join](https://discord.com/invite/x8CFKDJaU9) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
 | [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | +20% | :heavy_check_mark: | :x: | :heavy_check_mark: <br>_(3 active)_ | [Link](/servers/75_custom/era.md) |
 | [Gaia XI](https://gaiaxi.com/) | [Join](https://discord.gg/2c6HjwNuNK) | ToAU | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/gaia.md) |
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
-| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/qcQBh46j) | WoTG | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/75_custom/leveldown.md) |
+| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/uZ5J2KwAPA) | WoTG | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/75_custom/leveldown.md) |
 | [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active, with rules)_ | [Link](/servers/75_custom/nasomi.md) |
 | [Nightbrood](https://nightbrood.fandom.com/wiki/NIGHTBROOD_Wiki) | [Join](https://discord.gg/Z7VpPHGDQ3) | Wings | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/nightbrood.md) |
 | [Phynix](https://phynix.fandom.com/wiki/PHYNIX_Wiki) | [Join](https://discord.gg/JBMeqdJ) | ToAU<br>_(with some Wings content)_ | Custom | 150% | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/phynix.md) |
 | [Supernova](https://supernovaffxi.wordpress.com/) | [Join](https://discord.gg/QBBdfQh) | ToAU | Custom | Custom | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(6 active, with rules)_ | [Link](/servers/75_custom/supernova.md) |
 | [Tabula Rasa](https://tabularasaxi.com/) | [Join](https://discord.gg/FJkrBrV7Cx) | CoP | 2x | 120% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_retail/tabula_rasa.md) |
 | [WingsXI](https://wingsxi.com/wings/) | [Join](https://discord.gg/wNpVm35wbz) | Wings | Retail | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/wingsxi.md) |
+| [EventideXI](http://www.eventidexi.org/) | [Join](https://discord.gg/mWQnQ2Hdab) | ToAU | ❓ | ❓ | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/eventidexi.md) |
 
 # Level Cap: 90 - Custom Content
 
@@ -56,9 +57,8 @@ This page is an overview of the various private servers currently available. Eac
 | [Caldera](http://www.ffxi-caldera.net/wiki/index.php/Main_Page) | [Join](https://discord.gg/5X9ZFsn) | All | Custom | 2x | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(3 active, 1 bazaar)_ | [Link](/servers/99_custom/caldera.md) |
 | [DSP Old School](http://oldschool.dspt.info/) | [Join](https://discord.gg/7asbVtR) | :question: | :question: | :question: | :question: | :question: | :question: | [Link](/servers/99_custom/dsp_old_school.md) |
 | [Homepoint](http://homepointxi.com/) | [Join](https://discord.gg/BahyXQj) | Abyssea | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(Unlimited; with rules.)_ | [Link](/servers/99_custom/homepoint.md) |
-| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/qcQBh46j) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
+| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.com/invite/uZ5J2KwAPA) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
 | [Omicron](http://wiki.omicronffxi.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omicron.md) |
-| [Realms of Jova](http://realmsofjova.net/) | [Join](https://discord.gg/CJyN4WC) | All | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/realms_of_jova.md) |
 
 # Level Cap: 99 - Custom Content (Chinese Servers)
 
